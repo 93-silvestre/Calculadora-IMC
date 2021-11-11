@@ -94,23 +94,16 @@ main{
 
   
 
-  @media screen and (max-width: 1060px) {
+  @media screen (min-width: 300px )and (max-width: 1060px) {
     .input {
       
-      width: 60%;
+      width: 50%;
       
   
     }
   }
 
-  @media screen and (max-width: 1060px) {
-    .container {
-      
-      width: 100%;
-      
-  
-    }
-  }
+
 
 
 
