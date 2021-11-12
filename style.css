@@ -94,10 +94,11 @@ main{
 
   
 
-  @media screen (min-width: 300px )and (max-width: 1060px) {
+  @media screen and (max-width: 1060px) {
     .input {
       
-      width: 50%;
+      width: 50px;
+      margin-left: -13rem;
       
   
     }
